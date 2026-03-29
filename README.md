@@ -53,7 +53,6 @@ Follow these exact steps to configure the project on your local machine:
 Open your terminal or command prompt and clone the project files to your local machine.
 ```bash
 git clone https://github.com/ishashwatthakur/TrueNote-Automated-Forensic-Currency-Verification-System.git
-cd TrueNote
 ```
 
 ### Step 2: Create a Virtual Environment (Recommended)
