@@ -13,6 +13,7 @@ __pycache__/
 # Generated Reports & Debug Images
 forensic_report.html
 forensic_alignment_debug.jpg
+alignment_debug.jpg
 
 # OS generated files
 .DS_Store
